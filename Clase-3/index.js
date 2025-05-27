@@ -3,4 +3,4 @@
 // 3- Modificar que siga haciendo lo del punto 2 pero que a medida de ingrsar la nota mencione si esta aprobado o no (>=7)
 // 4- Modificar el for del punto 3, pasarlo a while
 
-
+// clase 3
